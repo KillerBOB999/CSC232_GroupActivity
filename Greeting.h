@@ -10,6 +10,7 @@ struct Greeting
     Greeting(){
         // TODO: Add your name to the vector in addition to
         // all of the other name(s) that are here.
+        names.push_back("Anthony Harris");
     };
 
     
