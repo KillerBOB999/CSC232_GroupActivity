@@ -16,6 +16,7 @@ struct Greeting
         names.push_back("Vitor Freitas");
         names.push_back("Hung Nguyen");
         names.push_back("Cole Kassing");
+        names.push_back("David Harper");
     };
 
     
