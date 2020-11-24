@@ -14,6 +14,7 @@ struct Greeting
         names.push_back("Nathan Obert");
         names.push_back("Dominic Zucchini");
         names.push_back("Vitor Freitas");
+        names.push_back("Jaron Ritter");
     };
 
     
