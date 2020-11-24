@@ -13,9 +13,10 @@ struct Greeting
         names.push_back("Anthony Harris");
         names.push_back("Nathan Obert");
         names.push_back("Dominic Zucchini");
+        names.push_back("Ashton Barnwell");
     };
 
-    
+
     void greet()
     {
         for (string& name : names)
