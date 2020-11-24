@@ -12,6 +12,7 @@ struct Greeting
         // all of the other name(s) that are here.
         names.push_back("Anthony Harris");
         names.push_back("Nathan Obert");
+        names.push_back("Dominic Zucchini");
     };
 
     
