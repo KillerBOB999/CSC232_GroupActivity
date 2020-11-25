@@ -19,7 +19,8 @@ struct Greeting
         names.push_back("Cole Kassing");
         names.push_back("David Harper");
         names.push_back("Ethan Dawley");
-		names.push_back("Ethan Tanner");
+	names.push_back("Ethan Tanner");
+	names.push_back("Aaron Gerbrandt");
 
     };
 
